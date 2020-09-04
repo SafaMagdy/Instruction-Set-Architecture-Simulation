@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="-1" key="dialogHeight"/>
+		<item value="-1" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.ZipFile" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Safa\Desktop\Adjusted bits.zip"/>
+			<item value="C:\Users\Safa\Desktop\test 5 May.zip"/>
+			<item value="C:\Users\Safa\Desktop\5 May CA.zip"/>
+			<item value="C:\Users\Safa\Desktop\fixed.zip"/>
+			<item value="C:\Users\Safa\Desktop\unfixed bug.zip"/>
+			<item value="C:\Users\Safa\Desktop\tillShift.zip"/>
+			<item value="C:\Users\Safa\Desktop\tillSub.zip"/>
+			<item value="C:\Users\Safa\Desktop\toBeTested.zip"/>
+			<item value="C:\Users\Safa\Desktop\memAccess.zip"/>
+			<item value="C:\Users\Safa\Desktop\ExecuteToBeContinued2.zip"/>
+			<item value="C:\Users\Safa\Desktop\ExecuteToBeContinued.zip"/>
+			<item value="C:\Users\Safa\Desktop\DecodeToBeContinued2.zip"/>
+			<item value="C:\Users\Safa\Desktop\DecodeToBeContinued.zip"/>
+			<item value="C:\Users\Safa\Desktop\Base CA.zip"/>
+		</list>
+	</section>
+</section>

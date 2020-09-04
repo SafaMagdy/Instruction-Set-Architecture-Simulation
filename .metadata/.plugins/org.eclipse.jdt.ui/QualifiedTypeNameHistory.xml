@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="InstructionMemory"/>
+<fullyQualifiedTypeName name="Instruction"/>
+<fullyQualifiedTypeName name="Register"/>
+<fullyQualifiedTypeName name="ControlUnit"/>
+</qualifiedTypeNameHistroy>
